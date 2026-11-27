@@ -13,3 +13,5 @@
 ## Nhật ký
 
 <!-- Chưa có mục nhật ký. Chỉ thêm sau khi được Tâm đồng ý. -->
+
+- 2026-11-27 | [ChatGPT] | Người dùng đồng ý tích hợp 77 mã lệnh học tập hiện có vào Bộ não AI để sử dụng chung giữa các AI; giữ nguyên dữ liệu cũ và không tự bổ sung các lệnh bị thiếu.
