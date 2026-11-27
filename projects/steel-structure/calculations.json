@@ -1,0 +1,28 @@
+{
+  "project": "P002",
+  "status": "draft_unverified",
+  "DA01": {
+    "source": "DA01 pp.3-17",
+    "d_mm": 1248,
+    "h_mm": 1523,
+    "As_mm2": 36200,
+    "n": 6,
+    "Ec_MPa": 31350,
+    "wDC_kN_m": 14.6,
+    "Mu_kNm": 5216.38,
+    "Vu_kN": 966.94,
+    "Mp_kNm": 10980.05,
+    "Mn_kNm": 10885.93,
+    "Dp_mm": 170.95
+  },
+  "DA02": {
+    "source": "reported in chat when DA02 delivered; verify against document before use",
+    "wDC_kN_m": 15.383,
+    "Mu_kNm": 5283.15,
+    "Vu_kN": 978.06,
+    "Mn_kNm": 10885.92,
+    "live_deflection_mm": 17.49,
+    "camber_mm": 45.68,
+    "stud_spacing_mm": 250
+  }
+}
