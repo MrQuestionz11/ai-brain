@@ -1,0 +1,38 @@
+project: P002
+source: DL01
+standard: "TCVN 11823:2017"
+design_parameters:
+  L_m: 24
+  m: 1
+  nL: 2
+  S_m: 2.4
+  wDW_kN_m: 7.5
+  ADT_vehicles_day_lane: 20000
+  p: 0.2
+  mgM: 0.70
+  mgV: 0.77
+  mgD: 0.65
+  mgF: 0.60
+materials_MPa:
+  Fy: 345
+  Fu: 450
+  Fus: 420
+  fc: 30
+cross_section_mm:
+  bc: 350
+  tc: 20
+  bt: 400
+  tt: 28
+  tw: 15
+  D: 1200
+  ts: 200
+  th: 75
+additional_from_DA01_not_DL01:
+  live_load: HL-93
+  deflection_limit: L/800
+  longitudinal_rebar: D16@200
+  transverse_rebar: D19@200
+  steel: ASTM A709M grade 345
+  weld: E70XX
+  bolts: ASTM A325M
+  rebar: ASTM A615M grade 420
