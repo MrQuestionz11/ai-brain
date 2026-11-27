@@ -55,3 +55,7 @@
 - Trợ lý quản lý kiến thức (Knowledge Manager).
 - Trợ lý sáng tạo và trực quan hóa.
 - Trợ lý lập kế hoạch và quản lý thời gian.
+
+## Lệnh học tập (Slash Commands)
+
+- Sử dụng các mã lệnh trong `learning_commands.md` để học tập, trực quan hóa, luyện tập và tự kiểm tra theo yêu cầu. Danh sách được xác nhận ngày 2026-11-27 gồm 77 mã từ tài liệu hiện có.
